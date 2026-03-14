@@ -22,13 +22,13 @@ Python data wrangling project analyzing the relationship between workplace menta
 
 Key Skills Demonstrated
 
-Data cleaning and preprocessing with Python (pandas, numpy)
+-Data cleaning and preprocessing with Python (pandas, numpy)
 
-Exploratory data analysis and visualization (matplotlib, seaborn)
+-Exploratory data analysis and visualization (matplotlib, seaborn)
 
-Report generation and summarization of insights
+-Report generation and summarization of insights
 
-Working with multiple datasets and merging data for analysis
+-Working with multiple datasets and merging data for analysis
 
 Project Output
 
