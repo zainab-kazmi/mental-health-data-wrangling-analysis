@@ -30,6 +30,5 @@ Key Skills Demonstrated
 
 - Working with multiple datasets and merging data for analysis
 
-Project Output
-
+## Project Output
 mental_health_data_wrangling_report.pdf – a concise report summarizing analysis, findings, and visualizations
